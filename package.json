@@ -12,6 +12,7 @@
   "license": "ISC",
   "packageManager": "pnpm@10.33.2",
   "dependencies": {
+    "@midudev/tailwind-animations": "^1.0.1",
     "@tailwindcss/cli": "^4.3.1",
     "tailwindcss": "^4.3.1"
   }
